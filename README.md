@@ -17,10 +17,12 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 ## Code concepts
  **control flow**
  ```sh
- condition ? 
-	() = {do something, then break} |
-	() = {do something, then break} | 
-	() = {do something, then 
+ if (condition) 
+     => {do something, then break} :
+     => {do something, then break} : 
+     => {do something, then break} : 
+     ... ;
+
 ```
  **For loop**
  ```sh
