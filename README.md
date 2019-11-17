@@ -3,7 +3,6 @@
 We envision business programs to be implemented using BTM language.
 Using BTM any business problem can be solved precise and fast!
 
----
 
 # Features
 
@@ -14,11 +13,11 @@ Using BTM any business problem can be solved precise and fast!
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
----
+
 ## Code concepts
  **control flow**
  ```sh
-       condition ? 
+ condition ? 
 	() = {do something, then break} |
 	() = {do something, then break} | 
 	() = {do something, then 
@@ -35,7 +34,7 @@ var#  - dynamic array
 var#2 - fixed size array
 VAR  - constant
  ```
----
+
 # Team
 
 | name | id | role |
