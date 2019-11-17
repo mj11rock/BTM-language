@@ -18,17 +18,17 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 ## Code concepts
  **control flow**
  ```sh
-        condition ? 
-		() = {do something, then break} |
-		() = {do something, then break} | 
-		() = {do something, then 
+       condition ? 
+	() = {do something, then break} |
+	() = {do something, then break} | 
+	() = {do something, then 
 ```
  **For loop**
  ```sh
   for (1 : 100 [by 2]) - 'for loop'
  ```
  
- **variables declaration**
+ **Variables declaration**
  ```sh
 var -  dynamic variable
 var#  - dynamic array
