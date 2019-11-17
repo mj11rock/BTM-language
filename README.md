@@ -24,7 +24,12 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 ```
  **For loop**
  ```sh
-  for (1 : 100 [by 2]) - 'for loop'
+   for (1 : 100) - 'for loop'
+    # same as 
+   for (1 : 100 by 1) - 'by' here means steps
+    # i=i+2
+   for (1 : 100 by 2) 
+
  ```
  
  **Variables declaration**
